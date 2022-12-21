@@ -109,4 +109,158 @@
         "sale_date" => "2019-04-10",
         "type" => "graphic novel"
     ],
+
+    'buy' => [
+        [
+            'text' => 'digital comics',
+            'image' => 'resources/images/buy-comics-digital-comics.png'
+        ],
+        [
+            'text' => 'dc merchandise',
+            'image' => 'resources/images/buy-comics-merchandise.png'
+        ],
+        [
+            'text' => 'subscription',
+            'image' => 'resources/images/buy-comics-shop-locator.png'
+        ],
+        [
+            'text' => 'comic shop locator',
+            'image' => 'resources/images/buy-comics-subscriptions.png'
+        ],
+        [
+            'text' => 'dc power visa',
+            'image' => 'resources/images/buy-dc-power-visa.svg'
+        ],
+
+    ],
+    'links' => [
+        [
+            'title' => 'dc comics',
+            'link' => [
+                [
+                    'href' => '#',
+                    'text' => 'Characters'
+                ],
+                [
+                    'href' => '#',
+                    'text' => 'Comics'
+                ],
+                [
+                    'href' => '#',
+                    'text' => 'Movies'
+                ],
+                [
+                    'href' => '#',
+                    'text' => 'Tv'
+                ],
+                [
+                    'href' => '#',
+                    'text' => 'Games'
+                ],
+                [
+                    'href' => '#',
+                    'text' => 'Videos'
+                ],
+                [
+                    'href' => '#',
+                    'text' => 'News'
+                ]
+
+            ]
+        ],
+        [
+            'title' => 'shop',
+            'link' => [
+                [
+                    'href' => '#',
+                    'text' => 'Shop Dc'
+                ],
+                [
+                    'href' => '#',
+                    'text' => 'Shop Dc Collectibles'
+                ],
+            ]
+        ]
+    ],
+    'linksTwo' => [
+        [
+            'title' => 'dc',
+            'link' => [
+                [
+                    'href' => '#',
+                    'text' => 'lorem lorem'
+                ],
+                [
+                    'href' => '#',
+                    'text' => 'lorem lorem'
+                ],
+                [
+                    'href' => '#',
+                    'text' => 'lorem lorem'
+                ],
+                [
+                    'href' => '#',
+                    'text' => 'lorem lorem'
+                ],
+                [
+                    'href' => '#',
+                    'text' => 'lorem lorem'
+                ],
+                [
+                    'href' => '#',
+                    'text' => 'lorem lorem'
+                ],
+                [
+                    'href' => '#',
+                    'text' => 'lorem lorem'
+                ],
+                [
+                    'href' => '#',
+                    'text' => 'lorem lorem'
+                ],
+                [
+                    'href' => '#',
+                    'text' => 'lorem lorem'
+                ],
+                [
+                    'href' => '#',
+                    'text' => 'lorem lorem'
+                ],
+                [
+                    'href' => '#',
+                    'text' => 'lorem lorem'
+                ],
+
+            ]
+        ]
+    ],
+    'sities' => [
+        [
+            'title' => 'sities',
+            'link' => [
+                [
+                    'href' => '#',
+                    'text' => 'lorem lorem'
+                ],
+                [
+                    'href' => '#',
+                    'text' => 'lorem lorem'
+                ],
+                [
+                    'href' => '#',
+                    'text' => 'lorem lorem'
+                ],
+                [
+                    'href' => '#',
+                    'text' => 'lorem lorem'
+                ],
+                [
+                    'href' => '#',
+                    'text' => 'lorem lorem'
+                ]
+            ]
+        ]
+
+    ]
 ];
+
